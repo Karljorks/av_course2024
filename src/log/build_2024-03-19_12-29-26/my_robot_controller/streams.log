@@ -1,0 +1,29 @@
+[1.199s] Invoking command in '/home/autolab/ros2_ws/src/build/my_robot_controller': PYTHONPATH=/home/autolab/ros2_ws/src/build/my_robot_controller/prefix_override:/home/autolab/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/autolab/ros2_ws/src/build/my_robot_controller/build --no-deps install_data
+[1.386s] running develop
+[1.594s] running egg_info
+[1.594s] creating my_robot_controller.egg-info
+[1.594s] writing my_robot_controller.egg-info/PKG-INFO
+[1.594s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[1.594s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[1.594s] writing requirements to my_robot_controller.egg-info/requires.txt
+[1.595s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[1.595s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.595s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.595s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.595s] running build_ext
+[1.595s] Creating /home/autolab/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[1.595s] Installing draw_circle script to /home/autolab/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[1.595s] Installing mapping script to /home/autolab/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[1.595s] Installing test_node script to /home/autolab/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[1.595s] 
+[1.595s] Installed /home/autolab/ros2_ws/src/build/my_robot_controller
+[1.595s] running install_data
+[1.595s] creating /home/autolab/ros2_ws/src/install/my_robot_controller/share/ament_index
+[1.595s] creating /home/autolab/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index
+[1.595s] creating /home/autolab/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index/packages
+[1.595s] copying resource/my_robot_controller -> /home/autolab/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index/packages
+[1.595s] copying package.xml -> /home/autolab/ros2_ws/src/install/my_robot_controller/share/my_robot_controller
+[1.595s] creating /home/autolab/ros2_ws/src/install/my_robot_controller/share/my_robot_controller/launch
+[1.595s] copying launch/start_mapping.launch.py -> /home/autolab/ros2_ws/src/install/my_robot_controller/share/my_robot_controller/launch
+[1.596s] copying launch/my_launch.launch.py -> /home/autolab/ros2_ws/src/install/my_robot_controller/share/my_robot_controller/launch
+[1.715s] Invoked command in '/home/autolab/ros2_ws/src/build/my_robot_controller' returned '0': PYTHONPATH=/home/autolab/ros2_ws/src/build/my_robot_controller/prefix_override:/home/autolab/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/autolab/ros2_ws/src/build/my_robot_controller/build --no-deps install_data

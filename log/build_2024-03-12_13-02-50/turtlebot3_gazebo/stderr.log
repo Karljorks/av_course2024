@@ -1,0 +1,12 @@
+failed to create symbolic link '/home/autolab/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/first.world' because existing path cannot be removed: Is a directory
+[31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:302 (message):
+  Could not create symlink
+  '/home/autolab/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/first.world'
+  pointing to
+  '/home/autolab/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo/worlds/first.world'
+Call Stack (most recent call first):
+  ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:96 (_ament_cmake_symlink_install_create_symlink)
+  ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:317 (ament_cmake_symlink_install_directory)
+  cmake_install.cmake:46 (include)
+
+[0m
