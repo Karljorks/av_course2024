@@ -1,6 +1,8 @@
 /home/autolab/ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
-/home/autolab/ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.pgm
-/home/autolab/ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.yaml
+/home/autolab/ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/~map.pgm
+/home/autolab/ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/~map.yaml
+/home/autolab/ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/~task1.pgm
+/home/autolab/ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/~task1.yaml
 /home/autolab/ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
 /home/autolab/ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
 /home/autolab/ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
