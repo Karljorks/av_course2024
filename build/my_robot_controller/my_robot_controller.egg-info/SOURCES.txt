@@ -8,10 +8,12 @@ setup.py
 ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
 ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
 ../../build/my_robot_controller/my_robot_controller.egg-info/zip-safe
+launch/car_nav.launch.py
 launch/my_launch.launch.py
 launch/run_navigation.launch.py
 launch/start_mapping.launch.py
 my_robot_controller/__init__.py
+my_robot_controller/aw_navigation.py
 my_robot_controller/draw_circle.py
 my_robot_controller/mapping.py
 my_robot_controller/my_first_node.py
